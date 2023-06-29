@@ -1,0 +1,42 @@
+
+
+QWidget {
+    background-color: #F0F0F0;
+}
+
+#song_label {
+    font: 14pt Forte;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 10px;
+}
+
+#album_image_label {
+    min-width: 200px;
+    min-height: 200px;
+}
+
+#position_slider {
+    /* Customize the position slider styles here */
+    border-radius: 20px;
+    border: none;
+}
+
+#previous_button {
+    border-radius: 20px;
+    border: none;
+    /* Customize the previous track button styles here */
+}
+
+#pause_button {
+    border-radius: 20px;
+    border: none;
+    /* Customize the pause/play button styles here */
+}
+
+#next_button {
+    border-radius: 20px;
+    border: none;
+    /* Customize the next track button styles here */
+}

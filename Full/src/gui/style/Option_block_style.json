@@ -1,0 +1,29 @@
+{
+  "Main": {
+    "bg": "#c6c8df"
+  },
+
+  "Title": {
+    "fg": "#393d6d",
+    "bg": "#c6c8df",
+    "font": "CooperBlack 50"
+  },
+
+  "Option_Frame": {
+    "relief": "flat",
+    "bg_color": "#c6c8df",
+    "pady": 30
+  },
+
+  "Option_Button": {
+    "width": 10,
+    "relief": "flat",
+    "font_color": "#2a0059",
+    "bg_color": "#ffcaf7",
+    "Active_bg_color": "#ffcaf7",
+    "Active_fg_color": "#2a0059",
+    "on_collision": "#5f85b3",
+    "padx": 30,
+    "pady": 10
+  }
+}

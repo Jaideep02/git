@@ -1,0 +1,40 @@
+h1 {
+    color: #00f48a;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+    margin-top: 30px;
+}
+
+h2 {
+    color: #7700ff;
+    font-size: 24px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+p {
+    color: #f8e0ff;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+code {
+    font-family: "Cascida code", monospace;
+    background-color: #f8f8f8;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+ul {
+    color: #444444;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
